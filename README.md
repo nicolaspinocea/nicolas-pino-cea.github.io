@@ -15,7 +15,6 @@ Optimizamos y escalamos tus modelos en entornos productivos utilizando los servi
 Te guiamos en la adopción y personalización de modelos generativos (LLMs, generación de imágenes, voz y texto). Descubre cómo integrar GenAI en tus productos, flujos internos o experiencia al cliente.
 
 ## ¿Que marca la diferencia? 
-
 ✅ Enfoque técnico con visión estratégica
 ✅ Experiencia comprobada en proyectos productivos
 ✅ Acompañamiento desde la idea hasta la implementación
