@@ -1,7 +1,7 @@
-# Asesoria de modelación matemática - por Nicolas Pino Cea
-Ofrecemos servicios de consultoría especializada en modelación matemática, machine learning y despliegue de soluciones en la nube con AWS. Combinamos experiencia técnica con una comprensión profunda de los problemas reales de negocio para ayudarte a tomar decisiones basadas en datos y escalar tus soluciones con eficiencia.
+# Asesoria de modelación matemática
+Ofrezco servicios de consultoría especializada en modelación matemática, machine learning y despliegue de soluciones en la nube con AWS. Combinamos experiencia técnica con una comprensión profunda de los problemas reales de negocio para ayudarte a tomar decisiones basadas en datos y escalar tus soluciones con eficiencia.
 
-# ¿Qué hacemos?
+# ¿En que te puedo ayudar?
 ## Modelación matemática y analítica avanzada
 Te ayudamos a formular, analizar y resolver problemas complejos utilizando técnicas de optimización, estadística y simulación. Desde modelos predictivos hasta soluciones a medida para tu industria.
 
@@ -14,7 +14,7 @@ Optimizamos y escalamos tus modelos en entornos productivos utilizando los servi
 ## Asesoría en Inteligencia Artificial Generativa
 Te guiamos en la adopción y personalización de modelos generativos (LLMs, generación de imágenes, voz y texto). Descubre cómo integrar GenAI en tus productos, flujos internos o experiencia al cliente.
 
-## ¿Por qué elegirnos? 
+## ¿Que marca la diferencia? 
 
 ✅ Enfoque técnico con visión estratégica
 ✅ Experiencia comprobada en proyectos productivos
@@ -22,7 +22,8 @@ Te guiamos en la adopción y personalización de modelos generativos (LLMs, gene
 ✅ Soluciones personalizadas, no paquetes genéricos
 
 ## ¿Tienes un reto en mente?
-Conversemos y encontremos la solución más inteligente.
+Conversemos y encontremos la solución más inteligente. 
+📩 Contáctame: [n.pino.cea@gmail.com](n.pino.cea@gmail.com)
 
 # Blogs y publicaciones
 
