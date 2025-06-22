@@ -20,11 +20,11 @@ Te guiamos en la adopción y personalización de modelos generativos (LLMs, gene
 
 ✅  Enfoque técnico con visión estratégica
 
-✅ - Experiencia comprobada en proyectos productivos
+✅  Experiencia comprobada en proyectos productivos
 
-✅ - Acompañamiento desde la idea hasta la implementación
+✅  Acompañamiento desde la idea hasta la implementación
 
-✅ - Soluciones personalizadas, no paquetes genéricos
+✅  Soluciones personalizadas, no paquetes genéricos
 
 ## ¿Tienes un reto en mente?
 Conversemos y encontremos la solución más inteligente. 
