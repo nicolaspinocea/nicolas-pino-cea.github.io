@@ -1,4 +1,4 @@
-<h1 style="color: blue;"> Asesoria de modelación matemática </h1>
+<h1 style="color: blue;"> Asesorias en IA: Herramienta para la toma de decisiones en tus manos </h1>
 Ofrezco servicios de consultoría especializada en modelación matemática, machine learning y despliegue de soluciones en la nube con AWS. Combinamos experiencia técnica con una comprensión profunda de los problemas reales de negocio para ayudarte a tomar decisiones basadas en datos y escalar tus soluciones con eficiencia.
 
 # ¿En que te puedo ayudar?
