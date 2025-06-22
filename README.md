@@ -16,7 +16,7 @@ Te guiamos en la adopción y personalización de modelos generativos (LLMs, gene
 
 ## ¿Que marca la diferencia? 
 
-✅ - Enfoque técnico con visión estratégica
+✅  Enfoque técnico con visión estratégica
 
 ✅ - Experiencia comprobada en proyectos productivos
 
